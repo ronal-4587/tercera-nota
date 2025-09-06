@@ -20,5 +20,6 @@ public class ComparacionTresNumeros {
                          num1, num2, num1, num3, resultado ? "SÍ" : "NO");
         
         scanner.close();
+        
     }
 }
